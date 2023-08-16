@@ -71,3 +71,17 @@ footer {
     width: 100%;
     z-index: 1000;  
 }
+
+footer {
+    /* ... other styles ... */
+    color: #ffffff;  /* This sets the text color to white */
+}
+
+footer a {
+    color: #ffffff;  /* This sets the link color to white */
+}
+
+footer a:hover {
+    color: #007BFF;  /* This sets the hover color, you can adjust as needed */
+}
+
