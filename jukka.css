@@ -81,3 +81,13 @@ footer a:hover {
     color: #007BFF; 
 }
 
+footer a {
+
+    margin-right: 20px;  
+}
+
+footer a:last-child {
+    margin-right: 0;  
+}
+
+
