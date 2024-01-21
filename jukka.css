@@ -90,4 +90,6 @@ footer a:last-child {
     margin-right: 0;  
 }
 
-
+#intro-text{
+float:left;
+}
